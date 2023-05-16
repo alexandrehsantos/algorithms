@@ -6,6 +6,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "SumArray",
+        "request": "launch",
+        "mainClass": "bulvee.com.tests.sumarray.SumArray",
+        "projectName": "tests"
+      },
+      {
+        "type": "java",
         "name": "AddTwoNumbers",
         "request": "launch",
         "mainClass": "bulvee.com.tests.AddTwoNumbers",
