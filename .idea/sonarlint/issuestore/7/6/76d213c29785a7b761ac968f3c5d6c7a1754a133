@@ -1,0 +1,9 @@
+
+U
+java:S1612"@Replace this lambda with method reference 'System.out::println'.(òßë$
+M	java:S106"9Replace this use of System.out or System.err by a logger.(òßë$
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÂÌ¶‡úÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¯ûú'
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ûŸŠ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡‚‹­
