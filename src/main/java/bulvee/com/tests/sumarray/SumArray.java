@@ -14,7 +14,7 @@ public class SumArray {
         int sum =0;
         int[] addedArray = new int[nums.length];
         for(int i =0; i < nums.length; i++){
-            sum += i;
+            sum += nums[i];
             addedArray[i] = sum;
         }
         return addedArray;
