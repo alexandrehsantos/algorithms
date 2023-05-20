@@ -1,6 +1,11 @@
-/home/ale/git/pessoal/estudos/java/testes/tests/src/main/java/bulvee/com/tests/binarytree/NoArvoreBinaria.java
-/home/ale/git/pessoal/estudos/java/testes/tests/src/main/java/bulvee/com/tests/SumTwo_Brute_Force.java
-/home/ale/git/pessoal/estudos/java/testes/tests/src/main/java/bulvee/com/tests/AddTwoNumbers.java
-/home/ale/git/pessoal/estudos/java/testes/tests/src/main/java/bulvee/com/tests/SumTwoMath.java
-/home/ale/git/pessoal/estudos/java/testes/tests/src/main/java/bulvee/com/tests/binarytree/ArvoreBinaria.java
-/home/ale/git/pessoal/estudos/java/testes/tests/src/main/java/bulvee/com/tests/ListNode.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/findpivotindex/FindPivotIndex.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/isomorphicstrings/IsomorphicStrings.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/issubsequence/IsSubsequence.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/pairThatSumarizeResult/SumTwoUsingMathConcepts.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/binarytree/ArvoreBinaria.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/sumarray/SumArrayLowCode.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/addTwoNumbers/AddTwoNumbers.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/addTwoNumbers/ListNode.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/pairThatSumarizeResult/SumTwoBruteForce.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/sumarray/SumArray.java
+/home/ale/git/pessoal/estudos/java/testes/algorithms/src/main/java/bulvee/com/tests/binarytree/NoArvoreBinaria.java

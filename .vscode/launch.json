@@ -6,6 +6,34 @@
     "configurations": [
       {
         "type": "java",
+        "name": "IsSubsequence",
+        "request": "launch",
+        "mainClass": "bulvee.com.tests.issubsequence.IsSubsequence",
+        "projectName": "tests"
+      },
+      {
+        "type": "java",
+        "name": "IsomorphicStrings",
+        "request": "launch",
+        "mainClass": "bulvee.com.tests.isomorphicstrings.IsomorphicStrings",
+        "projectName": "tests"
+      },
+      {
+        "type": "java",
+        "name": "FindPivotIndex",
+        "request": "launch",
+        "mainClass": "bulvee.com.tests.findpivotindex.FindPivotIndex",
+        "projectName": "tests"
+      },
+      {
+        "type": "java",
+        "name": "SumArrayLowCode",
+        "request": "launch",
+        "mainClass": "bulvee.com.tests.sumarray.SumArrayLowCode",
+        "projectName": "tests"
+      },
+      {
+        "type": "java",
         "name": "SumArray",
         "request": "launch",
         "mainClass": "bulvee.com.tests.sumarray.SumArray",
